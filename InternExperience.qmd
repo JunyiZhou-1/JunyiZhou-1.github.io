@@ -1,0 +1,19 @@
+---
+title: "Intern Experience"
+format: html
+editor: visual
+---
+
+## HengXin constrcution technology and testing co.LTD
+Time and location: June 2023 - July 2023  Suzhou \
+Job Duties:\
+1. make the materials for testing and help carry out the process of the tests\
+2. record the testing data and analyse whether materials meet the standard\
+
+## Wing Investment
+Time and location:Jan 2024 - Feb 2024  Suzhou \
+Job Duties:\
+1. conduct the research about the targeted industry \
+2. have interviews with the leaders and customers of the targeted company\
+3. organize the meetings contents and make some reports\
+4. join in the discussion about the potential of corresponding firms\

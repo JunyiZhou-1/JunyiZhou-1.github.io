@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Untitled",
+    "title": "Basic Information",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "Full name: Junyi Zhou\nHometown: Suzhou, Jiangsu Province\nContact Information: 15806200716 & 15806200716@163.com\nPersonal interests: Statistics, Economics and Finance"
   },
   {
     "objectID": "index.html#quarto",
@@ -19,5 +19,54 @@
     "title": "Untitled",
     "section": "Running Code",
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "edu.html",
+    "href": "edu.html",
+    "title": "Academic Performance",
+    "section": "",
+    "text": "Undergraduate\nXJTLU————Financial Mathematics\nOverall GPA: #/4.0\n\n\n\nYear\nAvg Marks\nRank\nScholarship\n\n\n\n\n2022-23\n83.62\n1\nAcademic Excellence Scholarship\n\n\n2023-24\n#\n#\n#\n\n\n2024-25\n#\n#\n#\n\n\n2025-26\n#\n#\nnot offer Scholarship"
+  },
+  {
+    "objectID": "edu.html#undergraduate",
+    "href": "edu.html#undergraduate",
+    "title": "Academic Performance",
+    "section": "",
+    "text": "XJTLU————Financial Mathematics\nOverall GPA: #/4.0\n\n\n\nYear\nAvg Marks\nRank\nScholarship\n\n\n\n\n2022-23\n84\n1\nAcademic Excellence Scholarship\n\n\n2023-24\n#\n#\n#\n\n\n2024-25\n#\n#\n#\n\n\n2025-26\n#\n#\nnot offer Scholarship"
+  },
+  {
+    "objectID": "InternExperience.html",
+    "href": "InternExperience.html",
+    "title": "Intern Experience",
+    "section": "",
+    "text": "Time and location: June 2023 - July 2023 Suzhou\nJob Duties:\n1. make the materials for testing and help carry out the process of the tests\n2. record the testing data and analyse whether materials meet the standard"
+  },
+  {
+    "objectID": "PersonalSkills.html",
+    "href": "PersonalSkills.html",
+    "title": "Personal Skills",
+    "section": "",
+    "text": "R Programming\nLatex\nWPS Office"
+  },
+  {
+    "objectID": "ResearchExperience.html",
+    "href": "ResearchExperience.html",
+    "title": "Research Experience",
+    "section": "",
+    "text": "Project 1\nResearch Field: Survival Analysis, one branch of Biostatistics\nBrief Introduction:\nMethodology:"
+  },
+  {
+    "objectID": "InternExperience.html#wing-investment",
+    "href": "InternExperience.html#wing-investment",
+    "title": "Intern Experience",
+    "section": "Wing Investment",
+    "text": "Wing Investment\nTime and location:Jan 2024 - Feb 2024 Suzhou\nJob Duties:\n1. conduct the research about the targeted industry\n2. have interviews with the leaders and customers of the targeted company\n3. organize the meetings contents and make some reports\n4. join in the discussion about the potential of corresponding firms"
+  },
+  {
+    "objectID": "InternExperience.html#hengxin-constrcution-technology-and-testing-co.ltd",
+    "href": "InternExperience.html#hengxin-constrcution-technology-and-testing-co.ltd",
+    "title": "Intern Experience",
+    "section": "",
+    "text": "Time and location: June 2023 - July 2023 Suzhou\nJob Duties:\n1. make the materials for testing and help carry out the process of the tests\n2. record the testing data and analyse whether materials meet the standard"
   }
 ]

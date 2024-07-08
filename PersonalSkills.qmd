@@ -1,0 +1,9 @@
+---
+title: "Personal Skills"
+format: html
+editor: visual
+---
+
+R Programming\
+Latex\
+WPS Office\

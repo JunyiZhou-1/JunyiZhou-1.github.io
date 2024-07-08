@@ -1,0 +1,17 @@
+---
+title: "Academic Performance"
+format: html
+editor: visual
+---
+
+# Undergraduate
+
+XJTLU————Financial Mathematics\
+Overall GPA: #/4.0
+
+| Year    | Avg Marks | Rank | Scholarship                     |
+|---------|-----------|------|---------------------------------|
+| 2022-23 | 83.62     | 1    | Academic Excellence Scholarship |
+| 2023-24 | \#        | \#   | \#                              |
+| 2024-25 | \#        | \#   | \#                              |
+| 2025-26 | \#        | \#   | not offer Scholarship           |
