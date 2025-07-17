@@ -22,7 +22,7 @@ repository               : "JunyiZhou-1/JunyiZhou-1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.png"
   name             : "Junyi Zhou"
   pronouns         : "he/him"
   bio              : "A person who has interest in Statistics and Quantitative Finance"
