@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome to My Academic Website
 
-I am **Junyi Zhou**, an undergraduate student majoring in financial mathematics with a strong interest in **Quantitative Finance** and **Statistics**. I am passionate about applying statistical methods and mathematical models to understand financial markets and solve real-world problems.
+I am **Junyi Zhou**, an undergraduate student majoring in financial mathematics with a strong interest in **Quantitative Finance** and **Statistics**. I am passionate about applying statistical methods and mathematical models to understand financial markets and solve real-world financial problems.
 
 ## Academic Background
 
@@ -27,8 +27,7 @@ My academic interests focus on the intersection of statistics and finance:
 
 - **Quantitative Risk Management**: Statistical models for assessing financial risks
 - **Financial Data Analysis**: Time series analysis of market data and economic indicators
-- **Portfolio Theory**: Mathematical optimization approaches to investment strategies
-- **Econometrics**: Statistical methods for analyzing economic and financial relationships
+- **Statistics Theory**: Underlying theories about the statistics theory
 
 ## Technical Skills
 
@@ -63,7 +62,7 @@ I am interested in pursuing career opportunities in:
 
 ## Future Plans
 
-I am considering graduate studies in **Financial Engineering**, **Quantitative Finance**, or **Applied Statistics** to further develop my expertise in mathematical finance and statistical modeling.
+I am considering graduate studies in **Quantitative Finance**, **Statistics** or **Statistical Science** to further develop my expertise in mathematical finance and statistical modeling.
 
 ## Beyond Academics
 
